@@ -1,0 +1,15 @@
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\obj\Debug\net6.0\programm.csproj.AssemblyReference.cache
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\obj\Debug\net6.0\programm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\obj\Debug\net6.0\programm.AssemblyInfoInputs.cache
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\obj\Debug\net6.0\programm.AssemblyInfo.cs
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\obj\Debug\net6.0\programm.csproj.CoreCompileInputs.cache
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\bin\Debug\net6.0\programm.exe
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\bin\Debug\net6.0\programm.deps.json
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\bin\Debug\net6.0\programm.runtimeconfig.json
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\bin\Debug\net6.0\programm.dll
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\bin\Debug\net6.0\programm.pdb
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\obj\Debug\net6.0\programm.dll
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\obj\Debug\net6.0\refint\programm.dll
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\obj\Debug\net6.0\programm.pdb
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\obj\Debug\net6.0\programm.genruntimeconfig.cache
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\1 часть\Итоговая работа\programm\obj\Debug\net6.0\ref\programm.dll
